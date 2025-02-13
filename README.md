@@ -12,13 +12,13 @@ Template for Pelican Blog with Papyrus theme.
 
 ### Install requirements
 
-- Install `stork-search` (or see its [documentation here](https://stork-search.net/docs/install)):
+Install `stork-search` (or see its [documentation here](https://stork-search.net/docs/install)):
 
 ```bash
 cargo install stork-search --locked
 ```
 
-- Install core packages:
+Install core packages:
 
 ```bash
 pip install pelican markdown beautifulsoup4 pelican-search
