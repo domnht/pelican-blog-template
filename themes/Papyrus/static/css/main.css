@@ -468,7 +468,7 @@ video {
 }
 
 .prose :where(ul > li):not(:where([class~="not-prose"] *))::marker {
-	color: var(--tw-prose-bullets);
+	/* color: var(--tw-prose-bullets); */
 }
 
 .prose :where(hr):not(:where([class~="not-prose"] *)) {
@@ -481,9 +481,9 @@ video {
 .prose :where(blockquote):not(:where([class~="not-prose"] *)) {
 	border-left-color: var(--tw-prose-quote-borders);
 	border-left-width: 0.25rem;
-	color: var(--tw-prose-quotes);
+	/* color: var(--tw-prose-quotes); */
 	font-style: italic;
-	font-weight: 500;
+	/* font-weight: 500; */
 	margin-bottom: 1.6em;
 	margin-top: 1.6em;
 	padding-left: 1em;

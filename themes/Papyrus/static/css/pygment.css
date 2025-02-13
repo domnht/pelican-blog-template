@@ -82,10 +82,10 @@
 .dark .highlight .g { color: #c9d1d9; } /* Generic */
 .dark .highlight .k { color: #ff7b72; } /* Keyword */
 .dark .highlight .l { color: #a5d6ff; } /* Literal */
-.dark .highlight .n { color: #c9d1d9; } /* Name */
+.dark .highlight .n { /* color: #c9d1d9; */ } /* Name */
 .dark .highlight .o { color: #ff7b72; font-weight: bold; } /* Operator */
 .dark .highlight .x { color: #c9d1d9; } /* Other */
-.dark .highlight .p { color: #c9d1d9; } /* Punctuation */
+.dark .highlight .p { /* color: #c9d1d9; */ } /* Punctuation */
 .dark .highlight .ch { color: #8b949e; font-style: italic; } /* Comment.Hashbang */
 .dark .highlight .cm { color: #8b949e; font-style: italic; } /* Comment.Multiline */
 .dark .highlight .cp { color: #8b949e; font-weight: bold; font-style: italic; } /* Comment.Preproc */
