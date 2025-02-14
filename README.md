@@ -27,7 +27,7 @@ pip install pelican markdown beautifulsoup4 pelican-search
 ### Development server
 I assumed that you are working on the blog directory. Use this command to build and run the development server:
 ```bash
-pelican --output output --settings pelicanconf.py --listen --ignore-cache
+pelican --autoreload --listen --ignore-cache
 ```
 
 ## Deploy on Netlify

@@ -1502,8 +1502,8 @@ p a {
 }
 
 .active\:scale-110:active {
-	--tw-scale-x: 1.1;
-	--tw-scale-y: 1.1;
+	--tw-scale-x: .95;
+	--tw-scale-y: .95;
 }
 
 .prose-headings\:font-semibold:is(:where(h1, h2, h3, h4, h5, h6, th):not(:where([class~="not-prose"] *))) {
