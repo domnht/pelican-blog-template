@@ -1493,7 +1493,7 @@ p a {
 }
 
 .active\:-translate-y-1:active {
-	--tw-translate-y: -0.25rem;
+	/* --tw-translate-y: -0.25rem; */
 }
 
 .active\:-translate-y-1:active,
